@@ -233,9 +233,8 @@
 <body>
 
 <!-- national starts -->
-<div class="container">
+<div class="container mt-md-5">
   <section class="news pt-0">
-  <div class="container-fluid mt-md-5">
     <div id="national">
     <h2>NATIONAL</h2>
     <ul class="row d-lg image-block justify-content-center px-lg-0 mx-lg-0">
@@ -288,53 +287,55 @@
 
 <!-- POLITICS STARTS -->
 
-<div class="container">
-  <h2>POLITICS</h2>
-  <div class="row">
+<div class="politics">
+  <div class="container">
+    <h2>POLITICS</h2>
+    <div class="row">
 
-  <div class="col-lg-3">
-      <div class="card" style="width: 18rem;">
-      <img src="..." class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Card with stretched link</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#">Read More> </a>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-3">
-    <div class="card" style="width: 18rem;">
-    <img src="..." class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">Card with stretched link</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <a href="#">Read More></a>
-    </div>
-    </div>
-  </div>
-
-  <div class="col-lg-3">
-    <div class="card" style="width: 18rem;">
-    <img src="..." class="card-img-top" alt="...">
-    <div class="card-body">
-        <h5 class="card-title">Card with stretched link</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#">Read More></a>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-3">
-    <div class="card" style="width: 18rem;">
-      <img src="..." class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Card with stretched link</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#">Read More></a>
+      <div class="col-lg-3">
+        <div class="card">
+          <img src="https://cdn.wionews.com/sites/default/files/2021/10/02/214054-mahatma-gandhi-2.jpg" class="card-img-top" alt="mahatma">
+          <div class="card-body">
+            <h5 class="card-title">Card with stretched link</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#">Read More> </a>
+          </div>
         </div>
+      </div>
+
+      <div class="col-lg-3">
+        <div class="card">
+          <img src="https://www.aljazeera.com/wp-content/uploads/2021/04/WEB_MAP_UKRAINE_RUSSIA_SEPARATIST_AREAS_REFRESH.jpg?w=770&resize=770%2C433" class="card-img-top" alt="war">
+          <div class="card-body">
+            <h5 class="card-title">Card with stretched link</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#">Read More></a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3">
+        <div class="card">
+          <img src="https://armscontrolcenter.org/wp-content/uploads/2019/11/India-Pakistan-Timeline-scaled.jpg" class="card-img-top" alt="movement">
+          <div class="card-body">
+            <h5 class="card-title">Card with stretched link</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#">Read More></a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3">
+        <div class="card">
+          <img src="https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2013/6/7/1370607676792/US-and-China-compared---f-001.jpg" class="card-img-top" alt="china-USA">
+          <div class="card-body">
+            <h5 class="card-title">Card with stretched link</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#">Read More></a>
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
   </div>
 </div>
 
@@ -350,30 +351,30 @@
   <h2>INTERNATIONAL</h2>
 
         <div id="international1" class="row no-gutters bg-light position-relative">
-  <div class="col-md-6 mb-md-0 p-md-4">
-    <img src="https://i.pinimg.com/originals/ab/7f/b0/ab7fb081515de13d22205a4804262dc5.jpg" class="w-100" alt="...">
+  <div class="col-md-5 mb-md-0 p-md-4">
+    <img src="https://new-media.dhakatribune.com/en/uploads/2022/02/26/2022-02-26t013312z-2010211718-rc2drs96txvc-rtrmadp-3-ukraine-crisis-kyiv.jpeg" class="international1" alt="...">
   </div>
-  <div class="col-md-6 position-static p-4 pl-md-0">
+  <div class="col-md-7 position-static p-4 pl-md-0">
     <h5 class="mt-0">Columns with stretched link</h5>
     <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
     <a href="#" class="stretched-link">Read More></a>
   </div>
 </div>
-<div class="row no-gutters bg-light position-relative">
-  <div class="col-md-6 mb-md-0 p-md-4">
-    <img src="..." class="w-100" alt="...">
+<div id="international1" class="row no-gutters bg-light position-relative">
+  <div class="col-md-5 mb-md-0 p-md-4">
+    <img src="https://new-media.dhakatribune.com/en/uploads/2022/02/26/2022-02-26t013312z-2010211718-rc2drs96txvc-rtrmadp-3-ukraine-crisis-kyiv.jpeg" class="international1" alt="...">
   </div>
-  <div class="col-md-6 position-static p-4 pl-md-0">
+  <div class="col-md-7 position-static p-4 pl-md-0">
     <h5 class="mt-0">Columns with stretched link</h5>
     <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
     <a href="#" class="stretched-link">Read More></a>
   </div>
 </div>
-<div class="row no-gutters bg-light position-relative">
-  <div class="col-md-6 mb-md-0 p-md-4">
-    <img src="..." class="w-100" alt="...">
+<div id="international1" class="row no-gutters bg-light position-relative">
+  <div class="col-md-5 mb-md-0 p-md-4">
+    <img src="https://new-media.dhakatribune.com/en/uploads/2022/02/26/2022-02-26t013312z-2010211718-rc2drs96txvc-rtrmadp-3-ukraine-crisis-kyiv.jpeg" class="international1" alt="...">
   </div>
-  <div class="col-md-6 position-static p-4 pl-md-0">
+  <div class="col-md-7 position-static p-4 pl-md-0">
     <h5 class="mt-0">Columns with stretched link</h5>
     <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
     <a href="#" class="stretched-link">Read More></a>

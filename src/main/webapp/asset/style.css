@@ -321,5 +321,27 @@ aside{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 95%;
+}
+
+/*#politics */
+
+.card{
+	padding: 2px;
+	height: 350px; 
+}
+
+.card-img-top{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	width: 100px;
+	height: 150px; 
+}
+
+.card:hover {
+	border:  1px solid black;
+}
+.weather {
+	color: black;
 }
